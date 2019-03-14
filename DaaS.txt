@@ -1,0 +1,19 @@
+Today's IT department is complex with multiple devices per user oftern running different OS
+HP DaaS is one stop solution for sourcing and managing hardware with support and analytics 
+The convenient analytics and proactive management dashboard provides an overview of your multi OS devices 
+and incidents and includes reports so HP service managers can monitor your device inventory, install software
+ and hardware health at a glance. One can also assess security compliance and evaluate performance
+to resolve issues before they affect users for example one's hard disk drive shows signs that it is about to fail
+HP can proactively initiate it's replacement before it impacts productivity. Reports are available on device performance
+including CPU and memory utilisation so one can match compute power to users and maximise budgets.
+With DaaS you can understand the root causes of the windows blue screen and software errors.
+DaaS helps one analyse computing usage and optimise software licensing. 
+So, one is not required to pay more than his/her needs.
+
+
+HP Device as a Service (DaaS) delivers a modern service model that simplifies
+how commercial organizations equip their employees with the right hardware,
+accessories, and lifecycle services to get the job done, while improving end-user
+and IT performance, agility, and cost predictability. 
+
+

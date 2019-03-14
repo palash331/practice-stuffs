@@ -1,0 +1,64 @@
+AWS
+
+i) EMR
+ii) Redshift
+iii) RDS
+iv) IAM
+v) Kinesis
+
+Airflow
+Databricks
+Boto 3
+
+Ingestion
+Kuch Kuch
+Reporting
+
+AWS is Amazon's cloud web-hosting platform.
+With this cloud, we need not plan for servers and other IT infrastructure which takes up much of time in advance.
+
+Cloud computing is an internet-based computing service 
+in which large groups of remote servers are networked to allow centralized data storage.
+Three types of clouds:
+Public - service providers make resources and services available to their customers via Internet.
+Private - only for the customer’s organization.
+Hybrid - combination of both public and private.
+
+S3 stands for Simple Storage Service. It allows the users to store and retrieve various types of data using API calls. 
+
+EC2 is a cloud web service solution, which can be used for hosting your application. 
+Basically, it's like a huge computer machine which runs either Windows or Linux and is capable
+of handling whatever software or application you install on it.
+
+S3 is more a data storage solution/service. Is used to store important data.
+It's like a huge hard-disk, where any amount of data can be stored and accessed, with very less I/O overheads.
+
+Amazon has other storage and database services, like
+RDS - for relational databases
+DynamoDB - for NoSQL.
+
+EC2 components:
+i) OS support
+ii) Security
+iii) Pricing
+
+An EC2 instance is a virtual server in Amazon's Elastic Compute Cloud (EC2) for running applications
+on the AWS infrastructure.
+
+Elastic Load Balancing (ELB) automatically distributes incoming request traffic across multiple Amazon EC2 instances and results in achieving higher fault tolerance. 
+It detects unfit instances and automatically reroutes traffic to fit instances until the unfit instances have been restored in a round-robin manner.
+
+ELB has three components:
+i) Load Balancer
+ii) Control Service
+iii) SSL Termination
+
+Amazon WorkSpaces is a fully managed desktop computing service in the cloud that allows its customers to provide cloud-based desktops to their end-users. 
+Through this the end users can access the documents, applications, and resources using devices of their choice such as laptops, iPad, Kindle Fire, or Android tablets. 
+This service was launched to meet its customers rising demand for Cloud based 'Desktop as a Service' (DaaS).
+
+
+
+
+
+

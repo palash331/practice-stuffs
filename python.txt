@@ -1,0 +1,46 @@
+Pyhton Data Types: int, float, str
+
+Data Structures:
+
+Lists - ordered sequence of objects [10, "Sammy", 200.3]
+Tuple - ordered immutable(you cannot change it) sequence of objects (10, "hello", 200.3)
+Dictionaries - unordered key-value pairs ("key":"value", "name":"Frankie")
+Sets - unordered collection of unique objects ("a", "b")
+
+To reverse a string: mystring[::-1]
+Tuples are immutable while Dictionaries & lists are mutable.
+
+Strings are immutable (cannot change indexes to change individual letters inside a string)
+
+Dictionaries cannot be sorted. And is unordered.
+Ordered sequence like in list can be indexed or sliced.
+
+*args - as many arguments in the function as you want
+**kwargs - as dictionary
+
+Use map function to apply a common function to a list of objects.
+
+LEGB rule
+L: Local - names assigned within a function
+E: Enclosing - names in local space of local functions
+G: Global - names assigned at the top level of a file
+B: Built-in - names assigned in built-in names like open, range
+
+Inside a class attributes can be called directly without the use of the parenthesis.
+But a method needs to be called using brackets. Like:
+class name - dog
+attributes - species, breed, name
+menthod name - bark
+
+my_dog = dog('Lab', 'Frankie')
+
+my_dog.breed ---> calling attribute's value
+my_dog.bark() ---> calling method's value
+
+
+
+
+
+
+
+

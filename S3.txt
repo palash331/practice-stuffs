@@ -1,0 +1,21 @@
+Amazon S3 stores data as objects within buckets.
+An object consists of a file and optionally any metadata that describes that file.
+To store an object in Amazon S3, you upload the file you want to store to a bucket.
+Buckets are the containers for objects. You can control access to each bucket, view access logs for it
+and its objects.
+
+Sign up for S3
+Create a bucket
+Add an object to bucket
+View an object
+Move an object
+Delete an object and bucket
+
+Common use scenarios of Amazon S3:
+i) Backup & Storage - provide data backup and storage services for others
+ii) Application Hosting - provide services that deploy, install and manage web apps
+iii) Media hosting - Build scalable and a=highly available infrastructure that hosts photos & videos
+iv) Software Delivery - host S/W applications that customers can download
+
+
+

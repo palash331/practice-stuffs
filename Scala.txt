@@ -1,0 +1,18 @@
+Scala - Scalable and Language.
+It runs on JVM.
+Has access to all Java libraries and tools.
+Both function oriented and object-oriented language
+
+Scala is statically typed, allowing us to find error at compile time. 
+It is a pure object-oriented language with no primitive data types.
+Everything in Scala is object.
+
+Variables are defined using val and var.
+val - immutable. It's value can't be changed.
+var - One can change it's value.
+
+Syntax for declaring a variable:
+
+val(or var) name: datatype
+
+
